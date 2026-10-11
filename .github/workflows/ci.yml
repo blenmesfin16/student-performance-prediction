@@ -2,7 +2,7 @@ name: Student Performance Pipeline CI
 
 on:
   push:
-    branches: [main, task-student-prediction]
+    branches: [main, task-student-prediction, task-student-visuals]
   pull_request:
     branches: [main]
 
